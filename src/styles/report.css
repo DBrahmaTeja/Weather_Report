@@ -1,0 +1,38 @@
+.city{
+    font-size: large;
+    margin-left: 0%;
+    position: absolute;
+     transform: translateY(2rem) translateX(30px);
+}
+.Temp{
+    font-size: 3rem;
+    margin-left: 0%;
+    position: absolute;
+    margin-top: 0%;
+    padding-top: 0%;
+    transform: translateY(-2rem) translateX(20px);
+}
+.Max_Temp{
+ transform: translateY(6rem) translateX(2rem); 
+font-size: medium;
+font-weight: bold;
+padding: 1rem;
+margin-left: 0%;
+margin-top: 0%;
+padding-top: 0%;
+position: absolute;
+
+}
+.Min_Temp{
+/* transform: translateY(6rem) translateX(-12rem); */
+transform: translateY(6rem) translateX(2rem); 
+
+font-size: medium;
+font-weight: bold;
+position: absolute;
+margin-left: 0%;
+margin-top: 0%;
+padding-top: 0%;
+
+padding: 1rem;
+}
